@@ -1,2 +1,2 @@
-# Estudos-Python
+# Estudos-JavaScript
  Primeiro repositório
