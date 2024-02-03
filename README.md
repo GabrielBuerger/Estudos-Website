@@ -1,2 +1,2 @@
-# Estudos-JavaScript
- Primeiro repositório
+# Estudos
+projetos html, css e js
